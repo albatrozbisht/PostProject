@@ -1,10 +1,10 @@
-package com.rest.restTemplate;
+package com.rabbit.rabbit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestTemplateApplicationTests {
+class RabbitApplicationTests {
 
 	@Test
 	void contextLoads() {
